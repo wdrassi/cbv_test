@@ -4,4 +4,6 @@ from django.shortcuts import render
 print '123654789'
 print '123654789'
 print 'abc 99999999'
+
+print "add anthe data"
 print 'add something'
